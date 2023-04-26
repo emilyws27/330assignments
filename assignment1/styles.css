@@ -1,0 +1,18 @@
+body {
+    background-color: babyblue;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: purple;
+    text-align: center;
+  }
+  h1 {
+    font-size: 36px;
+    text-shadow: 2px 2px 5px #666;
+  }
+  img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 3px;
+    border-color: blueviolet;
+  }
